@@ -10,4 +10,5 @@ int main()
     char ime[4];
     cin>>godini;
     return 0;
+    //bravo momiche!
 }
